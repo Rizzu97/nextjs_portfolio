@@ -53,7 +53,7 @@ const SkeletonThree = () => {
         app, which is designed specifically for teachers. This app streamlines
         communication, scheduling, and resource management, making it easier for
         educators to handle daily tasks and interact with students and parents
-        efficiently.
+        efficiently
       </p>
     </div>
   );
